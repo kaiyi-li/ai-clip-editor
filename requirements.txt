@@ -1,0 +1,9 @@
+torch>=1.12
+transformers>=4.20
+ftfy
+tqdm
+opencv-python
+opencv-python-headless
+numpy
+faiss-cpu
+scipy
